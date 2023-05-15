@@ -1,0 +1,12 @@
+.vscode
+.vs
+.windows
+.idea
+target
+packages
+obj
+bin
+*.lock
+*.user
+*.filters
+*.bin
